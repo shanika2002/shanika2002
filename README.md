@@ -33,7 +33,7 @@
 
 ### 🔥 Streak Stats
 
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
+![Shanika's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shanika2002&theme=tokyonight)
 
 ---
 
@@ -44,3 +44,11 @@
 <a href="https://instagram.com/shanika_kalpanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanika_kalpanee" height="30" width="40" /></a>
 </p>
 
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
