@@ -24,18 +24,19 @@
 
 ---
 
-## 📈 My GitHub Stats and Activity
-
-### 💻 Profile Stats
-
-<img alt="Shanika's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=shanika2002&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Shanika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanika2002&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub Activity</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanika2002&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shanika" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shanika2002&show_icons=true&locale=en&theme=chartreuse-dark" alt="shanika" width="410" /></p>
+<br><br><br><br><br>
 
 ### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shanika2002&theme=algolia" alt="shanika2002"  /></p>
 
-![Shanika's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shanika2002&theme=tokyonight)
 
----
+
+-----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
