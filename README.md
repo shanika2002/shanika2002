@@ -36,7 +36,7 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanika2002)](https://github.com/shanika2002/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanika2002&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanika2002&show_icons=true&theme=radical&layout=compact)
 <br><br><br><br><br>
 
 ### 🔥 Streak Stats
