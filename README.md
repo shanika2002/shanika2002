@@ -38,7 +38,7 @@
 
 <img alt = "my status" align= "left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=shanika2002&show_icons=true&theme=radical"/>
 <br><br><br><br><br>
-
+<br><br><br><br><br>
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shanika2002&theme=algolia" alt="shanika2002"  /></p>
 
