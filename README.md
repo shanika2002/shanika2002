@@ -34,9 +34,9 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub Activity</b></i></p>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanika2002&layout=compact)](https://github.com/shanika2002/github-readme-stats&layout=compact)
+<img alt = "top langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shanika2002&layout=compact"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanika2002&show_icons=true&theme=radical)
+<img alt = "my status" src = "https://github-readme-stats.vercel.app/api?username=shanika2002&show_icons=true&theme=radical"/>
 <br><br><br><br><br>
 
 ### 🔥 Streak Stats
