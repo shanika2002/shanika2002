@@ -34,7 +34,7 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub Activity</b></i></p>
  
-<img alt = "top langs" align= "left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shanika2002&layout=compact&bg_color=00000000"/>
+<img alt = "top langs" align= "left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shanika2002&layout=compact&theme=transparent"/>
 
 <img alt = "my status" align= "left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=shanika2002&show_icons=true&theme=radical"/>
 <br><br><br><br><br>
