@@ -52,7 +52,7 @@
 
 <h3> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" align="left">Connect with me: </h3>
 <p align="left">
-<a href="www.linkedin.com/in/shanika-kalpanee-ambegoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanika kalpanee ambegoda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shanika-kalpanee-ambegoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanika-kalpanee-ambegoda" height="30" width="40" /></a>
 <a href="https://fb.com/shanika kalpanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shanika kalpanee" height="30" width="40" /></a>
 <a href="https://instagram.com/shanika_kalpanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanika_kalpanee" height="30" width="40" /></a>
 </p>
