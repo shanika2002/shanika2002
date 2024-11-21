@@ -13,7 +13,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
-- 👨‍💻 I'm an Undergraduate at **SLIIT**
+- 👩‍🎓 I'm an Undergraduate at **SLIIT**
 
 - 🔭 I’m currently working on **Project**
 
